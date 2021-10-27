@@ -1,0 +1,41 @@
+body { 
+	background-color:##FEF9EF;
+	color: darkslateblue;
+	font-family: 'KALAM', cursif ;
+	text-align: center;
+}
+h1, h2, h3 {
+	font-family:'Roboto', sans-serif; 
+}
+
+.img-circle{border-radius: 30px;}
+
+h1 {
+	color: yellowgreen;
+	font-weight: 100;
+	letter-spacing: 10px;
+	font-size: 60px;
+	text-transform: uppercase;
+}
+
+h2 {
+	color:rgb(255, 222, 250);
+	font-size: 24px;
+	font-weight: lighter;
+}
+body{
+	color: #9FE8FA;
+}
+
+a{
+	font-family:'Roboto', sans-serif;
+	text-decoration: none;
+	color: dark;
+}
+a:hover {
+color: yellow;
+}
+<img src="images/profile.jpg" class="img-circle img-bordered">
+
+
+
